@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://tally.so/forms/m6BgV5/share",
+      "permanent": true
+    }
+  ]
+}
